@@ -5,14 +5,13 @@
 Install with the command:
 
 ```
-npm install --save jfgc-js-footer
+npm install --save devcamp-js-footer
 ```
 
 Add to a JavaScript Project with the following code:
 
 ```javascript
-import { footer } from 'jfgc-js-footer';
+import { footer } from 'devcamp-js-footer';
 
 footer('Some Name');
 ```
-"C:\Program Files\Git"

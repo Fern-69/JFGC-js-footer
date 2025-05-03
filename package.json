@@ -1,7 +1,7 @@
 {
   "name": "jfgc-js-footer",
   "version": "0.1.0",
-  "description": "This module allows for a dynamic footer to be generated for JS applications with an updated year and name.",
+  "description": "\"This module allows for a dynamic footer to be generated for JS applications with an updated year and name.\"",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,12 +11,15 @@
     "url": "git+https://github.com/Fern-69/JFGC-js-footer.git"
   },
   "keywords": [
-    "\"footer\""
+    "footer"
   ],
   "author": "Galtsagorri <garri.jf@gmail.com> (https://github.com/Fern-69/JFGC-js-footer)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Fern-69/JFGC-js-footer/issues"
   },
-  "homepage": "https://github.com/Fern-69/JFGC-js-footer#readme"
+  "homepage": "https://github.com/Fern-69/JFGC-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
 }
